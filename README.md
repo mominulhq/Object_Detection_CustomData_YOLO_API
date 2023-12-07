@@ -4,8 +4,11 @@ Welcome to the Object Detection with Custom Data YOLO API Repository! This repos
 
 OBJECT_DETECTION
 |-- koala_image
+
 |-- backup
+
 |   |-- trained_weights (presumably)
+
 |-- cfg
 
 
