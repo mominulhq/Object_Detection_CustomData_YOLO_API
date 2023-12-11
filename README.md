@@ -3,13 +3,18 @@
 Welcome to the Object Detection with Custom Data YOLO API Repository! This repository encompasses a custom dataset focused on Koala images, a pre-trained YOLO model fine-tuned for Koala detection, and an upcoming API that will be added shortly.
 
 OBJECT_DETECTION
-|-- koala_image
+---> koala_image >
+    --->image_1.jpg
+    --->image_1.txt
+    --->image_2.jpg
+    --->image_2.txt
 
-|-- backup
-
-|   |-- trained_weights (presumably)
-
-|-- cfg
+---> backup >
+    ---> trained model saved here
+    ---> trained_weights (presumably)
+    
+---> cfg >
+    ---> customized model of yolo
 
 
 koala_image: This folder likely contains the koala images that are used for training or testing in your object detection project.
