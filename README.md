@@ -25,10 +25,10 @@ Welcome to the Object Detection with Custom Data YOLO API Repository! This repos
 
 This directory contains images of koalas along with corresponding text files.
 
-- `image_1.jpg`: Description of image 1.
-- `image_1.txt`: Additional information or metadata for image 1.
+- `image_1.jpg`: image 1.
+- `image_1.txt`: Annotation file of  image 1.
 - `image_2.jpg`: Description of image 2.
-- `image_2.txt`: Additional information or metadata for image 2.
+- `image_2.txt`: image 2.
 
 ### `backup`
 
